@@ -198,7 +198,7 @@ Getting **Insights** from the plots drawn by a UI reporting tool (PowerBI), usin
 <br>
 
 -----
-This introductory workshop on Azure IoT has been delivered for:
+## This introductory workshop on Azure IoT has been delivered for:
 
 | Date | Audience |
 | ---- | ---- |
